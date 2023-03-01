@@ -11,8 +11,8 @@ Exemplo de um projeto bem simples com Django.
 * Rode as migrações.
 
 ```
-git clone https://github.com/rg3915/django-simples.git
-cd django-simples
+git clone https://github.com/CarlosTalayer/django_bem_simples
+cd django_bem_simples_
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
