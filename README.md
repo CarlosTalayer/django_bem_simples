@@ -1,6 +1,5 @@
 # django_bem_simples
-Projeto bem simples Django com python
-Exemplo de um projeto simples com Django.
+Projeto bem simples com python
 
 Como rodar este projeto?
 Primeiro clone esse repositório;
